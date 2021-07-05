@@ -84,3 +84,6 @@ background-image: url(images/pexels-photo-1591447.jpeg);
     background-image: linear-gradient(red, cyan);
     border-image-slice:1 ;
 }
+.cv{
+    background-image: linear-gradient(blue,cyan);
+}
