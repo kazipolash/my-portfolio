@@ -14,6 +14,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 10px;
 }
 .half-width img{
     width: 90%;
@@ -25,11 +26,14 @@ section{
 .link-button{
     text-decoration: none;
     background-color: orange;
-    padding: 10px 40px;
     border-radius: 5px;
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: 700px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .top-banner{
     background-image: url(images/images.jpg);
@@ -41,5 +45,12 @@ section{
 }
 .sunny{
     color:white;
+    font-size: 20px;
+}
+.dream-big{
+background-image: url(images/pexels-photo-1591447.jpeg);
+}
+.bunny{
+    color: white;
     font-size: 20px;
 }
